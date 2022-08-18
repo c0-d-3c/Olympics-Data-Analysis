@@ -1,1 +1,5 @@
-# Olympics-Data-Analysis
+Every project has its own branch
+main branch only has this README file
+
+sub-branches: 
+olympic_data_analysis - have a data analysis project where over 32000 datasets were analysed.
